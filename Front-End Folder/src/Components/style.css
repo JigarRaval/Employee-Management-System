@@ -1,0 +1,49 @@
+.loginPage {
+  background: url("../assets/Images/bg_3.jpg");
+  background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)),
+    url("../assets/Images/bg_3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 120%;
+}
+
+.home {
+  background: url("../assets/Images/bg_3.jpg");
+  background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)),
+    url("../assets/Images/bg_3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 120%;
+  color: rgb(48, 213, 200);
+}
+.loginForm {
+  background: rgba(33, 39, 53, 0.132);
+  box-shadow: 0 0 20px 3px rgba(172, 240, 245, 0.838);
+  color: rgb(48, 213, 200);
+}
+
+ul li :hover {
+  background-color: gray;
+}
+
+.employee_image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.dashboard {
+  background: url("../assets/Images/bg_3.jpg");
+  background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)),
+    url("../assets/Images/bg_3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 120%;
+  color: rgb(48, 213, 200);
+}
+.dashboard:hover {
+  box-shadow: 0 0 20px 3px rgba(172, 240, 245, 0.838);
+}
+
+.heading {
+  filter: drop-shadow(1px 1px 15px gold);
+}
